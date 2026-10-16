@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
+    "chart.js": "^4.5.1",
+    "parcel": "^2.16.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
